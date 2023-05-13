@@ -1,0 +1,12 @@
+controlador\adicionInv.class
+controlador\elimina.class
+u\gestorinventarios\resources\JakartaEE91Resource.class
+controlador\busca.class
+modelo\Totales.class
+modelo\conexion.class
+controlador\regis.class
+u\gestorinventarios\JakartaRestConfiguration.class
+modelo\Sumas.class
+modelo\Persona.class
+modelo\Articulos.class
+controlador\login.class
